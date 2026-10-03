@@ -1,0 +1,12 @@
+lets try to have a 3 lane road
+we have control of the car and can move it around on the screen
+other cars are on the highway going down with the road
+our job is to avoid the cars and get a high score
+
+1. get a car on the screen that we can move around
+2. get a 3 lane road to appear
+3. bound the car in the road
+4. move the road down so it looks like we are driving
+5. add other cars on the road that move slower down than the road so it looks like they are driving too
+6. left slowest, middle is middle, right is fasted
+7. add some kind of collision effect that ends the game
